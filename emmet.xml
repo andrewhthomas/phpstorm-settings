@@ -1,0 +1,11 @@
+<application>
+  <component name="EmmetOptions">
+    <option name="bemElementSeparator" value="--" />
+    <option name="bemModifierSeparator" value="-" />
+    <option name="filtersEnabledByDefault">
+      <set>
+        <option value="bem" />
+      </set>
+    </option>
+  </component>
+</application>
