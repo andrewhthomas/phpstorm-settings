@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
-      <mapping ext="theme" type="PHP" />
+      <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="00-set-environment" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping pattern="00-set-environment" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
